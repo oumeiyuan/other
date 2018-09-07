@@ -1,0 +1,17 @@
+bin
+obj
+PrecompiledWeb
+.gitmodules
+*.scc
+*.suo
+*.pdb
+*.csproj.user
+*.vbproj.user
+*.csproj.webinfo
+*.vbproj.webinfo
+Web.Debug.config
+Thumbs.db
+~$*.*
+Logs
+packages
+.vs

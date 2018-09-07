@@ -1,0 +1,26 @@
+{
+	"name": "业务系统",
+	"version": "1.0.0.0",
+	"description": "A project depend on idplat",
+	"author": "陈毓孟 <chenym@chinasap.cn>",
+	"date": "2018-05-23 18:10:47",
+	"private": true,
+	"dependencies": {
+		"element-ui": "^2.2.0",
+		"vue": "^2.5.9"
+	},
+	"include": {
+		"ims": {
+			"name": "ims",
+			"version": "1.0.0.0",
+			"description": "",
+			"date": "2018-05-23 17:10:47",
+			"author": "陈毓孟 <chenym@chinasap.cn>"
+		}
+	},
+	"browserslist": [
+		"ie >=10",
+		"google",
+		"firefox"
+	]
+}
